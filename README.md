@@ -6,9 +6,9 @@ free for anyone to use, modify, and run on their own, under MIT licence.
 Tool for free usage, by Martin Preiss / PREISS CONSULTING
 Version 1.0  01/2021
 
-documentation with screen shots
-https://www.preiss-sap-consulting.de/en/download-und-upload-von-alv-layouts/ (english)
-https://www.preiss-sap-consulting.de/download-und-upload-von-alv-layouts/ (german)
+documentation with screen shots   
+www.preiss-sap-consulting.de/en/download-und-upload-von-alv-layouts/ (english)   
+www.preiss-sap-consulting.de/download-und-upload-von-alv-layouts/ (german)
 
 Tested with releases
 - ERP 6.0  (    (SAP_APPL 6.05 and SAP_APPL 6.17)
