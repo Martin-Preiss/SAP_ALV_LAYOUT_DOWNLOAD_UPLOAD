@@ -650,7 +650,7 @@ CLASS alv1 IMPLEMENTATION.
       " set target report ( we allow upload to different report)
       ls_ltdxkey-report = iv_repid.
       " adjust description keys
-      LOOP AT lt_ltdxt ASSIGNING <ltdxt>.
+      LOOP AT <skeys>-ltdxt ASSIGNING <ltdxt>.
         <ltdxt>-report = iv_repid.
       ENDLOOP.
 
